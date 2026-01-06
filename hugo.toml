@@ -1,0 +1,36 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "/cheetos"
+theme = "hugo-plain-minimal"
+
+
+
+[params]
+  
+  [[params.gallery]]
+    image = "/images/photo1.jpg"
+    message = "me"
+
+  [[params.gallery]]
+    image = "/images/photo.jpg"
+    message = "my sun🌞"
+
+ 
+
+[menu]
+
+  [[menu.main]]
+    name = "Intro"
+    url = "/intro/"
+    weight = 1
+
+  [[menu.main]]
+    name = "why"
+    url = "/why/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
+
