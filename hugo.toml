@@ -1,4 +1,4 @@
-baseURL = "https://hotcheeto.pages.dev/"
+baseURL = "https://hotcheeto.com/"
 languageCode = "en-us"
 title = "/cheetos"
 theme = "hugo-plain-minimal"
