@@ -5,7 +5,7 @@
     <title>Content Manager</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <!-- Netlify Identity widget (required for auth proxy) -->
+    <!-- Netlify Identity -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
@@ -14,6 +14,10 @@
 
     <script>
       if (window.netlifyIdentity) {
+        window.netlifyIdentity.init({
+          url: "https://monumental-sunflower-ad2948.netlify.app"
+        });
+
         window.netlifyIdentity.on("init", user => {
           if (!user) {
             window.netlifyIdentity.on("login", () => {
