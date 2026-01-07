@@ -1,0 +1,48 @@
+backend:
+  name: github
+  repo: keerthana-naik-official/hotcheeto
+  branch: main
+  base_url: https://monumental-sunflower-ad2948.netlify.app
+  auth_endpoint: /api/auth
+
+publish_mode: editorial_workflow
+
+media_folder: static/images
+public_folder: /images
+
+site_url: https://hotcheeto.com
+display_url: https://hotcheeto.com
+
+collections:
+  # =====================
+  # BLOG POSTS
+  # =====================
+  - name: "blog"
+    label: "Blog"
+    folder: "content/blog"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number", default: 1 }
+      - { label: "Content", name: "body", widget: "markdown" }
+
+  # =====================
+  # SIMPLE PAGES
+  # =====================
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "Intro Page"
+        name: "intro"
+        file: "content/intro.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "body", widget: "markdown" }
+
+      - label: "Why Page"
+        name: "why"
+        file: "content/why.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "body", widget: "markdown" }
