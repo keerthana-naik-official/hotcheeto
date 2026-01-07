@@ -2,6 +2,8 @@ backend:
   name: git-gateway
   branch: main
   identity_url: https://monumental-sunflower-ad2948.netlify.app
+  gateway_url: https://monumental-sunflower-ad2948.netlify.app/.netlify/git
+
 
 publish_mode: editorial_workflow
 
