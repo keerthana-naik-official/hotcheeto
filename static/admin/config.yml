@@ -1,9 +1,6 @@
 backend:
-  name: github
-  repo: keerthana-naik-official/hotcheeto
+  name: git-gateway
   branch: main
-  base_url: https://monumental-sunflower-ad2948.netlify.app
-  auth_endpoint: /api/auth
 
 publish_mode: editorial_workflow
 
