@@ -3,7 +3,7 @@ title: "kiy when 20"
 weight: 1
 ---
 
-jan 10 2026 
+jan 10 2026 \
 
 I am desperate, desperate for attention. it was not always like this. I used be that friend in a group who was least interested in things going on other's life but doesn't mean i didn't get enough love then. People liked me because i don't know (maybe i was like-able person then) there's one friend of mine, she used to tell how much 'kiy'meant to her, but i guess I was non-responsive for that love . I never gave her much time of mine. we rarely talk now, not because of love faded it's just that we joined new college and stuff ..she says
 
