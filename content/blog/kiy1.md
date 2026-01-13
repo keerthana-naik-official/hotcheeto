@@ -28,4 +28,5 @@ Instagram ( controversial)
 you should invest your time and give part of your attention to get back the attention. Its not immediate but , let's consider .
 i was a member of the chess related groupchat , i met crazy peeps there .
 to be continued.. 
+
 ---
