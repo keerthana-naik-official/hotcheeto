@@ -3,30 +3,26 @@ title: "kiy when 20"
 weight: 1
 ---
 
-jan 10 2026 \
+Jan 07 2026 , 11:43 pm
 
-I am desperate, desperate for attention. it was not always like this. I used be that friend in a group who was least interested in things going on other's life but doesn't mean i didn't get enough love then. People liked me because i don't know (maybe i was like-able person then) there's one friend of mine, she used to tell how much 'kiy'meant to her, but i guess I was non-responsive for that love . I never gave her much time of mine. we rarely talk now, not because of love faded it's just that we joined new college and stuff ..she says
+i am desperate for attention. i wasn’t always like this. i used to be the friend who didn’t ask questions, the one who listened but didn’t lean in. people loved me anyway. i don’t know why—maybe i was just easier to love when i wasn’t trying.
 
-Now kiy is desperate .. desperate for attention.. but attention not from the place she is at right now. Because she thinks she doesn't belong here (which is true)
-the attention she seeks now is at internet.
+there was this one friend. she used to tell me how much “kiy” meant to her. i never really knew what to do with that. i never gave her much of my time. we barely talk now. not because anything ended, just because life moved, and we moved with it. she still says it sometimes, in texts that feel like notes left on a table. i read them, but i don’t know how to answer.
 
-PLACES IN INTERNET FOR ATTENTION LOVERS LMAO 
+now kiy is desperate. desperate for attention, but not from here. because here doesn’t feel like mine. the attention i want lives somewhere else. it lives on the internet.
 
- chess.com 
+places on the internet for attention lovers, lmao.
 
-getting attention in chess.com is cool , chess.com is like a cafe , a silent cafe . 
-A silent cafe where you speak only in the clatter of pieces. A connection that is pure, distilled strategy-until the moment you type "good game" and hope for a paragraph back. You don't get one. The game ends. You are alone in the cafe again.
-i made a friend there . it's been 2 years . i think he's already done with me lmao . but he promised that he will call me for his wedding . yay 
+chess.com is like a silent café. the kind where you only speak through the clatter of pieces. a connection that’s pure, just strategy and silence—until the game ends and you type “good game” and hope for a paragraph in return. you don’t get one. the board empties. you’re alone in the café again.
 
-youTube stream
+i made a friend there once. two years ago. i think he’s done with me now, lmao. but he promised he’d invite me to his wedding. so there’s that. yay.
 
-Then my brother, a genius of the overlooked ecosystem, showed me the tide pools of the internet: the YouTube live stream with an audience you can count on one hand. Feels like small, dimly lit room where the door is always unlocked. You walk in. The streamer says your username. You type "gl hf" and they read it aloud. The transaction is immediate, visceral, and complete. 
-For sixty minutes, I am not a ghost. I am text on a screen, a cheer for them , I am a source of a tiny, quantifiable dopamine hit for a stranger.
+then my brother showed me the tide pools: youtube streams with three viewers. it feels like a small, dimly lit room where the door is always unlocked. you slip inside. the streamer says your username. you type “gl hf” and they read it out loud. for sixty minutes, you’re not a ghost. you’re text on a screen. you’re a tiny, quantifiable hit of dopamine for a stranger. it’s immediate. it’s enough.
 
-Instagram ( controversial)
+instagram is different. you have to invest attention to get it back. it’s not immediate, but it’s steady. i joined a chess group chat once. met people there who felt like characters from a story i’d started reading in the middle. crazy, kind, fleeting. i don’t know where they are now.
 
-you should invest your time and give part of your attention to get back the attention. Its not immediate but , let's consider .
-i was a member of the chess related groupchat , i met crazy peeps there .
-to be continued.. 
+sometimes i think i’m just building rooms in places where no one lives. filling them with the sound of my own typing, waiting for an echo that sounds like a voice i recognize.
+
+but tonight, it’s quiet. and i am here, and i am desperate, and i am writing this down like maybe someone will read it and understand the shape of this silence.
 
 ---
