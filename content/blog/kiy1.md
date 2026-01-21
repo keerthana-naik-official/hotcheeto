@@ -29,6 +29,23 @@ but tonight, it’s quiet. and i am here, and i am desperate, and i am writing t
 
 jan 21 2026
 
-i'm so looked for isa 💀.
+Living Outside the Box (While Still Very Much Trapped Inside It)
+
+They say you shouldn’t live in a box. ( they is me here ) 
+I agree. I don’t want to live in one, either.
+My goal is to be the observer outside the box, watching myself go through the motions. Calm, detached, floating above the noise.
+
+In theory, it’s perfect: I don’t give a fuck about things I can’t control. Life has no inherent purpose. 10668 days left. Why sweat the small stuff? Why care?
+
+But here’s the truth—I do care.
+I care so much . I am aware of the cosmic joke, and yet my heart still races. My stomach still drops. I still lose sleep over things that, in the grand scheme of my 10668 days, mean absolutely nothing.
+
+It’s the ultimate contradiction: to see the box clearly, to even understand its flimsy walls, and still feel them closing in. To know that nothing really matters, but to be terrified of failing your ISA, of disappointing someone, of a tomorrow that feels uncertain.
+
+So yes, I am philosophically “outside the box.”
+But practically? I am so inside it I can touch the ceiling. I am, as they say, thoroughly cooked for ISA .
+
+The observer and the participant, at war.
+kiy
 
 ---
