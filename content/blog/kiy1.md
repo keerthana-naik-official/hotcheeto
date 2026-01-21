@@ -3,7 +3,7 @@ title: "kiy when 20"
 weight: 1
 ---
 
-Jan 07 2026 , 11:43 pm
+dec 25 2025 , 11:43 pm
 
 i am desperate for attention. i wasn’t always like this. i used to be the friend who didn’t ask questions, the one who listened but didn’t lean in. people loved me anyway. i don’t know why—maybe i was just easier to love when i wasn’t trying.
 
@@ -24,5 +24,11 @@ instagram is different. you have to invest attention to get it back. it’s not 
 sometimes i think i’m just building rooms in places where no one lives. filling them with the sound of my own typing, waiting for an echo that sounds like a voice i recognize.
 
 but tonight, it’s quiet. and i am here, and i am desperate, and i am writing this down like maybe someone will read it and understand the shape of this silence.
+
+---
+
+jan 21 2026
+
+i'm so looked for isa 💀.
 
 ---
