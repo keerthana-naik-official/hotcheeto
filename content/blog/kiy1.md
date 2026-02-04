@@ -49,16 +49,3 @@ The observer and the participant, at war.
 kiy
 
 ---
-
-3 feb 2026
-
-just received a notification from Life progress application , saying life progress : 41.65 % 
-crazy . i got a challange for kiy . thst i should do extremely well in esa 2nd year . cause i might get money from my birthgiver ( he promised (( he thinks i am dumb )) me 5 lakhs , if i get distinction)
-5 lakhs toh aukat ke bahar he , i need atleaast 50k , so i can see valley of flowersseees 🌸🌸🌸🌸🌸
-or college might also give me scholarship if i appear in top 10 . 
-so i will be locking in , from today ( feb 3 ) . 
-
-bought to you by 
-kiy's brain 
-
----
