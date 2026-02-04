@@ -29,7 +29,6 @@ and I keep talking, hoping one of them is as desperate for attention as I am.
 But today, the line is empty. No one thought to show up— as if the entrance test for being attention-deprived wasn’t worth taking seriously.
 Tonight, I just stare at the chair no one occupies. It’s quiet.
 and sad ( i guess (( not sure)) ) 
-
 brought to you by kiy's brain 
 ---
 
