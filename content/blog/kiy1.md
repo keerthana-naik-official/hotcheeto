@@ -22,14 +22,17 @@ B) youtube streams
 then my brother showed me the tide pools: youtube streams with three viewers. it feels like a small, dimly lit room where the door is always unlocked. you slip inside. the streamer says your username. you type “gl hf” and they read it out loud. for sixty minutes, you’re not a ghost. you’re text on a screen. you’re a tiny, quantifiable hit of dopamine for a stranger. it’s immediate. it’s enough.
 
 C) instagram gc 
-instagram is different. you have to invest attention to get it back. it’s not immediate, but it’s steady and you might be lucky to get some attention. i joined a chess group chat once. and i met a ....hold on , i think this needs to be mentioned in my highlights when kiy was 20!.
+instagram is different. you have to invest attention to get it back. it’s not immediate, but it’s steady and you might be lucky to get some attention. i joined a chess group chat once. and i met a ....hold on , i think this needs to be mentioned in my highlights of 'when kiy was 20' .
 
 Sometimes I think I’m building a room in the middle of nowhere— one chair for me, one for whoever decides to sit across from me. I imagine a line forming outside, people coming in one by one,
 and I keep talking, hoping one of them is as desperate for attention as I am.
 But today, the line is empty. No one thought to show up— as if the entrance test for being attention-deprived wasn’t worth taking seriously.
 Tonight, I just stare at the chair no one occupies. It’s quiet.
 and sad ( i guess (( not sure)) ) 
+
 brought to you by kiy's brain 
+
+
 ---
 
 jan 21 2026
