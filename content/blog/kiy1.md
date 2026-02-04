@@ -14,14 +14,17 @@ now kiy is desperate. desperate for attention, but not from here. because here d
 places on the internet for attention lovers, lmao.
 
 A) chess.com 
+
 like a silent café. the kind where you only speak through the clatter of pieces. a connection that’s pure and based on the strategy and silence—until the game ends and you type “good game” and hope for a paragraph in return. you don’t get one. the board empties. you’re alone in the café again.
 guess what-
 i made a friend there once. two years ago. i think he’s done with me now, lmao. but he promised he’d invite me to his wedding. so there’s that. yay.
 
 B) youtube streams 
+
 then my brother showed me the tide pools: youtube streams with three viewers. it feels like a small, dimly lit room where the door is always unlocked. you slip inside. the streamer says your username. you type “gl hf” and they read it out loud. for sixty minutes, you’re not a ghost. you’re text on a screen. you’re a tiny, quantifiable hit of dopamine for a stranger. it’s immediate. it’s enough.
 
 C) instagram gc 
+
 instagram is different. you have to invest attention to get it back. it’s not immediate, but it’s steady and you might be lucky to get some attention. i joined a chess group chat once. and i met a ....hold on , i think this needs to be mentioned in my highlights of 'when kiy was 20' .
 
 Sometimes I think I’m building a room in the middle of nowhere— one chair for me, one for whoever decides to sit across from me. I imagine a line forming outside, people coming in one by one,
