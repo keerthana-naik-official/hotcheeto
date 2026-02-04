@@ -13,23 +13,29 @@ now kiy is desperate. desperate for attention, but not from here. because here d
 
 places on the internet for attention lovers, lmao.
 
-chess.com is like a silent café. the kind where you only speak through the clatter of pieces. a connection that’s pure, just strategy and silence—until the game ends and you type “good game” and hope for a paragraph in return. you don’t get one. the board empties. you’re alone in the café again.
-
+A) chess.com 
+like a silent café. the kind where you only speak through the clatter of pieces. a connection that’s pure and based on the strategy and silence—until the game ends and you type “good game” and hope for a paragraph in return. you don’t get one. the board empties. you’re alone in the café again.
+guess what-
 i made a friend there once. two years ago. i think he’s done with me now, lmao. but he promised he’d invite me to his wedding. so there’s that. yay.
 
+B) youtube streams 
 then my brother showed me the tide pools: youtube streams with three viewers. it feels like a small, dimly lit room where the door is always unlocked. you slip inside. the streamer says your username. you type “gl hf” and they read it out loud. for sixty minutes, you’re not a ghost. you’re text on a screen. you’re a tiny, quantifiable hit of dopamine for a stranger. it’s immediate. it’s enough.
 
-instagram is different. you have to invest attention to get it back. it’s not immediate, but it’s steady. i joined a chess group chat once. met people there who felt like characters from a story i’d started reading in the middle. crazy, kind, fleeting. i don’t know where they are now.
+C) instagram gc 
+instagram is different. you have to invest attention to get it back. it’s not immediate, but it’s steady and you might be lucky to get some attention. i joined a chess group chat once. and i met a ....hold on , i think this needs to be mentioned in my highlights when kiy was 20!.
 
-sometimes i think i’m just building rooms in places where no one lives. filling them with the sound of my own typing, waiting for an echo that sounds like a voice i recognize.
+Sometimes I think I’m building a room in the middle of nowhere— one chair for me, one for whoever decides to sit across from me. I imagine a line forming outside, people coming in one by one,
+and I keep talking, hoping one of them is as desperate for attention as I am.
+But today, the line is empty. No one thought to show up— as if the entrance test for being attention-deprived wasn’t worth taking seriously.
+Tonight, I just stare at the chair no one occupies. It’s quiet.
+and sad ( i guess (( not sure)) ) 
 
-but tonight, it’s quiet. and i am here, and i am desperate, and i am writing this down like maybe someone will read it and understand the shape of this silence.
-
+brought to you by kiy's brain 
 ---
 
 jan 21 2026
 
-Living Outside the Box (While Still Very Much Trapped Inside It)
+ Outside the Box 
 
 They say you shouldn’t live in a box. ( they is me here ) 
 I agree. I don’t want to live in one, either.
