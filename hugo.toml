@@ -15,6 +15,9 @@ theme = "hugo-plain-minimal"
     image = "/images/photo.jpg"
     message = "my sun🌞"
 
+  [[params.gallery]]
+    image = "/images/IMG-20260101-WA0040.jpg"
+    message = "🚵"
  
 
 [menu]
