@@ -78,9 +78,12 @@ like that quote from Fantastic Mr. Fox: 'Honey, I'm seven non-fox years old. My 
 So here's a gameplan , which is extremely predictable gameplan - aka classic rat race . I haven't tasted the rat race since my last competitive exam ( NEET ) . Then the gene responsible to cause fear of being average and not getting selected to reproduce ( which is ....evolution-core ) triggered me .
 
 step 1 : go from being an average med student in a class of 100 to somewhere near 'topper' territory.
+
 step 2 : impress the birthgiver ( Dad ) with the results
+
 step 3 : claim the results . Yes , there was a deal . He may no t have been serious when he made it , but guess what A DEAL IS A DEAL - regardless of intention, tone , facial expression or surrounding circumstances.
 the deal : he funds my mini-trip.
+
 step 4 : go on that mini-trip. Preferably somewhere scenic . Maybe the valley of flowers, india ( which is my current lock screen- walpaper)
 
 W planner , L executer .
