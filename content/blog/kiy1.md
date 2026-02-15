@@ -60,6 +60,8 @@ kiy
 
 ---
 
+feb 15 2026 
+
 yo , reddit guy  
 
 the subject was apparently normal few days ago . Then she read a reply to her comment on Reddit that said , I have bookmarked it, please keep writing ."
@@ -68,18 +70,18 @@ first of all , there was no need for you to inform me that this is bookmarked an
 some illusions are nice .
 
 also , ' please keep writing ' -
-?????? what exactly is that supposed to mean ? ( jk) . but tbh , I don't have anything to write . I don't live extra . Infact I barely live above subliminal threshold. I just exist in a loop you can say ( staying in the same loop , still not failing to make the same mistakes , phirse morning ka first class miss kar gayi 😔 , IMPRESSIVE CONSISTENCY )
+?????? what exactly is that supposed to mean ? ( jk) . but tbh , I don't have anything to write . I don't live extra . Infact I barely live above subliminal threshold. I just exist in a loop you can say ( staying in the same loop , still not failing to make the same mistakes , phirse morning ka first class miss kar gayi 😔 , impressive consistency indeed )
 
 but now that i apparently have an audience ( yes , definitely you ) , I feel mildly responsible to upgrade my storyline .
 
-like that quote from Fantastic Mr. Fox: ' I don't want to live '
+like that quote from Fantastic Mr. Fox: 'Honey, I'm seven non-fox years old. My father died at seven and a half. I don't want to live in a hole anymore. I'm going to do something about it. '
 and he actually does something about it . Respect
 
-So here's a gameplan , which is extremely predictable gameplan - aka classic rat race . I haven't tasted the rat race since my last competitive exam ( NEET ) . Then the gene responsible to cause fear of being average and not getting selected to reproduce ( which is ....evolution-core 😭 ) triggered me .
+So here's a gameplan , which is extremely predictable gameplan - aka classic rat race . I haven't tasted the rat race since my last competitive exam ( NEET ) . Then the gene responsible to cause fear of being average and not getting selected to reproduce ( which is ....evolution-core ) triggered me .
 
 step 1 : go from being an average med student in a class of 100 to somewhere near 'topper' territory.
 step 2 : impress the birthgiver ( Dad ) with the results
-step 3 : claim the results . Yes , there was a deal 🤝 . He may not have been serious when he made it , but guess what A DEAL IS A DEAL - regardless of intention, tone , facial expression or surrounding circumstances.
+step 3 : claim the results . Yes , there was a deal . He may not have been serious when he made it , but guess what A DEAL IS A DEAL - regardless of intention, tone , facial expression or surrounding circumstances.
 the deal : he funds my mini-trip.
 step 4 : go on that mini-trip. Preferably somewhere scenic . Maybe the valley of flowers, india ( which is my current lock screen- walpaper)
 
