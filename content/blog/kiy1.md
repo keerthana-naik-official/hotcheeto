@@ -81,7 +81,7 @@ step 1 : go from being an average med student in a class of 100 to somewhere nea
 
 step 2 : impress the birthgiver ( Dad ) with the results
 
-step 3 : claim the results . Yes , there was a deal . He may no t have been serious when he made it , but guess what A DEAL IS A DEAL - regardless of intention, tone , facial expression or surrounding circumstances.
+step 3 : claim the rewards . Yes , there was a deal . He may no have been serious when he made it , but guess what A DEAL IS A DEAL - regardless of intention, tone , facial expression or surrounding circumstances.
 the deal : he funds my mini-trip.
 
 step 4 : go on that mini-trip. Preferably somewhere scenic . Maybe the valley of flowers, india ( which is my current lock screen- walpaper)
