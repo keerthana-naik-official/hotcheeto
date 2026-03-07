@@ -7,9 +7,6 @@ theme = "hugo-plain-minimal"
 
 [params]
   
-  [[params.gallery]]
-    image = "/images/photo1.jpg"
-    message = "me"
 
   [[params.gallery]]
     image = "/images/photo.jpg"
